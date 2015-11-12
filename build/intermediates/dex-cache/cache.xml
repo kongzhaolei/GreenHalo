@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\needle\StudioProjects\GreenHalo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eeebabdfd8203f6ab639ccea4ffa1f20e1adee3a">
+        <dex dex="D:\needle\StudioProjects\GreenHalo\app\build\intermediates\pre-dexed\debug\classes-0b73b68a0b5a1ccd449188d31e70108f360738e8.jar" />
+    </item>
+    <item
+        jar="D:\needle\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.1.0\support-annotations-22.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="281bc6c58ecb3644c23fbc5ee0452019f67b4d5d">
+        <dex dex="D:\needle\StudioProjects\GreenHalo\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.0-bf2babbbf0894ce4244078ccf804d8014dbb18b3.jar" />
+    </item>
+    <item
+        jar="D:\needle\StudioProjects\GreenHalo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.0\jars\libs\internal_impl-22.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="025cb89f2896c63200ff4c2e6c467a95691d880a">
+        <dex dex="D:\needle\StudioProjects\GreenHalo\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.0-7eca429bde5e69ee1954eabeb463b099203021fc.jar" />
+    </item>
+
+</items>
